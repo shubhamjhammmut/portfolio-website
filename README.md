@@ -35,7 +35,4 @@ I’m passionate about exploring **web technologies, innovation, and digital des
 turning creative ideas into real, functional applications.  
 I aim to grow as a developer who blends **technical precision with creative storytelling**.
 
----
-
-## 🧩 Project Structure
 
